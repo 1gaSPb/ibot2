@@ -3,7 +3,7 @@
 ### Ускорь рутину в игре и сосредоточься на результате
 
 [![Скачать последнюю версию](https://img.shields.io/badge/Скачать-Последнюю_версию-2ea44f?style=for-the-badge)](https://github.com/1gaSPb/ibot2/releases/latest/download/ibot2.exe)
-[![Открыть релизы](https://img.shields.io/badge/GitHub-Releases-1f6feb?style=for-the-badge)](https://github.com/1gaSPb/ibot2/releases/latest)
+[![Открыть релизы](https://img.shields.io/badge/GitHub-Releases-1f6feb?style=for-the-badge)](https://github.com/1gaSPb/ibot2/releases/)
 
 `ibot2` - Windows-бот для **TilesSurvive**, который берет на себя повторяющиеся действия и помогает играть стабильнее и эффективнее.
 
