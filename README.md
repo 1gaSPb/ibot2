@@ -20,7 +20,8 @@
 - **Рейды**: автоматическое вступление в рейды.
 - **Поселение**: автоматизация задач в поселении (сбор книг, конвертов, прожатие рук "помощи").
 
-- <img width="562" height="462" alt="image" src="https://github.com/user-attachments/assets/eb32e778-2d68-4ba9-a9e5-942bf9827666" />
+- <img width="562" height="462" alt="image" src="https://github.com/user-attachments/assets/951d34c4-5416-44b4-933e-b1d486f6e8ef" />
+
 
 
 ## Скачать и начать за 2 минуты
