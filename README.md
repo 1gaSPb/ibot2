@@ -26,7 +26,7 @@
 - **Автопереподключение**: при вылете из аккаунта (если запустился на другом устройстве).
 
   
-<img width="702" height="570" alt="image" src="https://github.com/user-attachments/assets/3c428585-cbfa-466b-9b69-27c7f0c9256e" />
+<img width="702" height="572" alt="image" src="https://github.com/user-attachments/assets/c66c1324-9b43-4f5a-8162-a5ef7d411912" />
 
 
 
